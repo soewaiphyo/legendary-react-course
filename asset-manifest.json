@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/legendary-react-course/static/css/main.523f09c5.chunk.css",
+    "main.js": "/legendary-react-course/static/js/main.14e6b82b.chunk.js",
+    "main.js.map": "/legendary-react-course/static/js/main.14e6b82b.chunk.js.map",
+    "runtime-main.js": "/legendary-react-course/static/js/runtime-main.78057ffa.js",
+    "runtime-main.js.map": "/legendary-react-course/static/js/runtime-main.78057ffa.js.map",
+    "static/js/2.05d183da.chunk.js": "/legendary-react-course/static/js/2.05d183da.chunk.js",
+    "static/js/2.05d183da.chunk.js.map": "/legendary-react-course/static/js/2.05d183da.chunk.js.map",
+    "index.html": "/legendary-react-course/index.html",
+    "precache-manifest.a21e8b18846edbf44d261df5c9b3f34a.js": "/legendary-react-course/precache-manifest.a21e8b18846edbf44d261df5c9b3f34a.js",
+    "service-worker.js": "/legendary-react-course/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/legendary-react-course/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.05d183da.chunk.js.LICENSE.txt": "/legendary-react-course/static/js/2.05d183da.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/legendary-react-course/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78057ffa.js",
+    "static/js/2.05d183da.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.14e6b82b.chunk.js"
+  ]
+}
